@@ -1,4 +1,5 @@
 # This library is intended to be used for the Nerus Strategies vetting process. The following functions cover every process.
+# Creator: Brandon Rodriguez-Hernandez
 
 # Import the necessary libraries needed for all of the functions
 #---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -452,8 +453,8 @@ def get_contest_ID(contest_name):
     
     # Email and Password for accessing Facebook
     # Login Credentials
-    EMAIL = 'brodriguez@nerus.net'
-    PASSWORD = 'Fuck@1234'
+    EMAIL = #Left out for obvious reasons
+    PASSWORD = #Left out for obvious reasons
     # Open chrome browser
     browser = webdriver.Chrome(options=option)
     # Open Optimum
@@ -501,8 +502,8 @@ def get_contest_max_page_number(contest_name):
     
     # Email and Password for accessing Facebook
     # Login Credentials
-    EMAIL = 'brodriguez@nerus.net'
-    PASSWORD = 'Fuck@1234'
+    EMAIL = #Left out for obvious reasons
+    PASSWORD = #Left out for obvious reasons
     # Open chrome browser
     browser = webdriver.Chrome(options=option)
     # Open Optimum
